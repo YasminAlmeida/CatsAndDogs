@@ -1,21 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import * as S from './style.js';
 const Header = ({ rotaCat, rotaDog, rotaHome }) => {
   return (
     <>
       <nav>
-        <ul>
-          <li>
+        <S.Navigation>
+          <S.List>
             <Link to="/">{rotaHome}</Link>
-          </li>
-
-          <li>
+          </S.List>
+          <S.List>
             <Link to="/cat">{rotaCat}</Link>
-          </li>
-          <li>
+          </S.List>
+          <S.List>
             <Link to="/dog">{rotaDog}</Link>
-          </li>
-        </ul>
+          </S.List>
+        </S.Navigation>
       </nav>
     </>
   );
