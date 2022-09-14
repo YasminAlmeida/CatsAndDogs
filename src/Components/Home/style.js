@@ -14,4 +14,5 @@ export const ContainerHome = styled.div`
   display: flex;
   align-items: center;
   flex-direction: column;
+  align-items: start;
 `;

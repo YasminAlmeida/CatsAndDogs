@@ -28,19 +28,19 @@ const Dogs = () => {
         >
           Click
         </S.ButtonSearch>
-        <p>
+        <S.Information>
           “The greatest pleasure of a dog is that you may make a fool of
           yourself with him and not only will he not scold you, but he will make
           a fool of himself too.” – Samuel Butler
-        </p>
-        <p>
+        </S.Information>
+        <S.Information>
           “A dog is the only thing on earth that loves you more than he loves
           himself.” – Josh Billings
-        </p>
+        </S.Information>
       </S.ConteinerLeft>
       <S.ConteinerRight>
         <figure>
-          <img
+          <S.ImageDog
             style={isLoad ? {} : { display: 'none' }}
             src={data}
             onLoad={() => {

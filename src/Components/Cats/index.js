@@ -33,14 +33,14 @@ const Cats = () => {
         >
           Click
         </S.ButtonSearch>
-        <p>
+        <S.Information>
           “In ancient times cats were worshipped as gods; they have not
           forgotten this.” – Terry Pratchett
-        </p>
-        <p>
+        </S.Information>
+        <S.Information>
           “I had been told that the training procedure with cats was difficult.
           It’s not. Mine had me trained in two days.” – Bill Dana
-        </p>
+        </S.Information>
       </S.ConteinerLeft>
       <S.ConteinerRight>
         <figure>

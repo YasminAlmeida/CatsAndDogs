@@ -4,6 +4,7 @@ export const Navigation = styled.ul`
   display: flex;
   list-style: none;
   justify-content: center;
+  margin-bottom: 50px;
 `;
 export const List = styled.li`
   padding: 5px;
