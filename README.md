@@ -6,4 +6,4 @@
 ## 📁 Acesso ao projeto
 <p>Visualização do resultado Final</p>
 
-![image](https://user-images.githubusercontent.com/100879182/190275427-9099f65e-8288-4b76-ad8c-a8480608a58f.png)
+![image](https://user-images.githubusercontent.com/100879182/190276771-05aaf60b-5baf-48f0-9ccf-b60a9e455429.png)
